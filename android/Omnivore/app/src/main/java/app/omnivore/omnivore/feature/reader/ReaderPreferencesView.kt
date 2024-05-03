@@ -158,7 +158,7 @@ fun ReaderPreferencesView(
                 )
 
                 Text(
-                    stringResource(R.string.reader_preferences_view_margin), style = TextStyle(
+                    stringResource(R.string.reader_preferences_view_page_width), style = TextStyle(
                         fontSize = 15.sp,
                         fontWeight = FontWeight.Normal,
                         color = Color(red = 137, green = 137, blue = 137)

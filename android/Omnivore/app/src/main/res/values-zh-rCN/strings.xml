@@ -238,4 +238,5 @@
     <string name="edit_info_sheet_action_cancel">取消</string>
     <string name="edit_info_sheet_error">编辑文章时出错</string>
     <string name="edit_info_sheet_success">文章信息更新成功</string>
+    <string name="reader_preferences_view_page_width">页宽</string>
 </resources>

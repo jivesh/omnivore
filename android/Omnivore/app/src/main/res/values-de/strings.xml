@@ -231,4 +231,5 @@
     <string name="edit_info_sheet_action_cancel">Abbrechen</string>
     <string name="edit_info_sheet_error">Fehler beim Bearbeiten des Artikels!</string>
     <string name="edit_info_sheet_success">Artikelinformationen erfolgreich aktualisiert!</string>
+    <string name="reader_preferences_view_page_width">Seitenbreite</string>
 </resources>
